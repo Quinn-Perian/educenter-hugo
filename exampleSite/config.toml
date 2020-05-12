@@ -1,4 +1,4 @@
-baseURL = "http://greenorganizers.netlify.com"
+baseURL = "http://greenorganizers.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
